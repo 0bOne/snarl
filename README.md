@@ -56,7 +56,7 @@ The ```%COMPUTERNAME%``` argument is a windows command variable.  If you are on 
 
 
 ## Acknowldgements and feedback
-This is a build tool created for the RabbieOS Project (currently unpublished). Inspired by Rabbie the Scottish Terrier - who was a very independently-minded friend of mine.
+This is a build tool created for the RabbieOS Project (currently unpublished). Inspired by Rabbie the Scottish Terrier - who was a very independent-minded friend of mine.
 ```
      //
  /   =6_.
