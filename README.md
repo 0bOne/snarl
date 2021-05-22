@@ -55,6 +55,10 @@ SET NETDEV1=-netdev type=socket,id=mynet1,udp=%COMPUTERNAME%:40001,localaddr=0.0
 The ```%COMPUTERNAME%``` argument is a windows command variable.  If you are on Linux, a bash script would be ```$HOSTNAME``` (it's been a few years, so check for yourself).
 
 
+##Acknowldgements and feedback
+Thanks to the awesome folks at [NodeJs](https://nodejs.org/), [Bochs](https://bochs.sourceforge.io/), and [Qemu](https://www.qemu.org/), and all the helpful hints and tips at [OSDev](https://wiki.osdev.org/Main_Page).
+
+If anyone has any bugs, tips, enhancements, or suggestions, please let me know!
 
 
 
